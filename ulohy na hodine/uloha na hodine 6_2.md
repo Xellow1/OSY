@@ -1,6 +1,6 @@
 # Praktické úlohy – Windows 10
 
----
+
 
 ## Ú1: Hardvér
 
@@ -11,7 +11,7 @@
 
 Údaje v devmgmt.msc a dxdiag sú rovnaké.
 
----
+
 
 ## Ú2: Ovládače
 
@@ -23,15 +23,15 @@
 **Zvuková karta**
 - Realtek High Definition Audio  
 
----
+
 
 ## Ú3: Ovládač
 
 - Stránka: amd.com/support  
 - Systém: Windows 10 64-bit  
-- Aktualizácia: nie je potrebná  
+- Aktualizácia- nie je potrebná  
 
----
+
 
 ## Ú4: Správa PC
 
@@ -39,4 +39,4 @@
 - Oddiely: 2  
 - Používatelia: 2  
 
-devmgmt.msc je len Správca zariadení, compmgmt.msc má viac nástrojov.
+devmgmt.msc je len Správca zariadení compmgmt.msc má viac nástrojov
