@@ -11,7 +11,7 @@
 
 Údaje v devmgmt.msc a dxdiag sú rovnaké.
 
----
+
 
 ## Ú2: Ovládače
 
