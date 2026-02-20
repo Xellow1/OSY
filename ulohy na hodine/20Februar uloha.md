@@ -1,4 +1,4 @@
- Uloha 1   
+ Uloha 1  
         1. ukazala sa tam šipka a nejde internet 
 
         2. zariadenie je zakazane a ukazalo chybny kod 22 
