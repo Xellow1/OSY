@@ -1,9 +1,10 @@
- uloha    1. ukazala sa tam šipka a nejde internet.   
+ Uloha 1   
+        ukazala sa tam šipka a nejde internet.   
         zariadenie je zakazane a ukazalo chybny kod 22.
         ikona je normalna a internet zase funguje
 
 
-ULOHA2
+Uloha 2
 
    | Údaj | Hodnota |
    |------|---------|
